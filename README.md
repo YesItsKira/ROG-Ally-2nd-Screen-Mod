@@ -55,6 +55,10 @@ Once the glue dries, tighten the lock nuts so that the hinge has the amount of p
 
 ## Parts List:
 
+3D Printed Parts:
+
+https://www.thingiverse.com/thing:6515253
+
 <u>Screen:</u>
 
 https://www.amazon.co.uk/dp/B09373CK49?psc=1&ref=ppx_yo2ov_dt_b_product_details
