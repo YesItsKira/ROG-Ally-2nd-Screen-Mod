@@ -48,7 +48,7 @@ One the other side of the hinge, you need to put the hinge mount instead of the 
 
 Now you can place the screen on the ally and glue the hinge mount to the back of your Ally so that everything lines up.
 
-Once dry, tighten the lock nuts so that the hinge has the amount of pressure to hold the screen and the mod is done!
+Once the glue dries, tighten the lock nuts so that the hinge has the amount of pressure to hold the screen and the mod is done!
 
 ## Parts List:
 
