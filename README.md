@@ -5,6 +5,9 @@ Hi there! This is a mod for the ROG Ally that adds a second clamshell screen!
 
 Its pretty thick since I could not source a thinner 7 inch screen than the one used here so take this mod as more for fun than anything.
 
+It can be folded back to act as a stand too!
+![image](https://github.com/YesItsKira/ROG-Ally-2nd-Screen-Mod/assets/162062562/e300799c-efa6-428a-afa5-ecda04ce3b4f)
+
 **The parts list and links are at the bottom of the page :)**
 
 ## Putting The Screen Together:
