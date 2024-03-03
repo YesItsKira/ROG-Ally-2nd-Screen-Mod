@@ -34,24 +34,24 @@ It can be folded back to act as a stand too!
    ![image](https://github.com/YesItsKira/ROG-Ally-2nd-Screen-Mod/assets/162062562/22d578eb-6cc2-4bc7-a539-5ed423f242b2)
 
 
-8. Drop this whole thing into the printed screen housing and feed the dock wire through the hole in the printed back cover.
+8. Drop this whole thing into the printed screen housing and feed the dock wire through the hole in the printed housing lid.
 
-9. Glue the docks usbc to the wire housing and then glue the wire housing onto the back cover. 
+9. Glue the docks usbc to the wire holder and then glue the wire holder onto the lid. 
 
 10. Plug the usbc into the ally with the extention to check if everything is working. If it is, you can glue the back cover to the housing.
 
 
 ## Mounting The Screen To The Ally:
 
-You will need to thread the rod through the housing with the hinge parts on either side. Washers are placed on either side of the hinge parts to distribute the pressure more evenly.
+You will need to thread the rod through the housing with a hinge part on either side. Washers are placed on either side of the hinges to distribute the pressure more evenly.
 
-One the other side of the hinge, you need to put the hinge mount instead of the housing. Please look at the photo for reference. 
+One the other side of the hinge, you need to put the hinge support through instead of the housing. Please look at the photo for reference. 
 
 ![image](https://github.com/YesItsKira/ROG-Ally-2nd-Screen-Mod/assets/162062562/28a6c506-85ca-44f2-9355-38a19a9a5e8b)
 
-Now you can place the screen on the ally and glue the hinge mount to the back of your Ally so that everything lines up.
+Now you can place the screen on the ally and glue the hinge support to the back of your Ally so that everything lines up.
 
-Once the glue dries, tighten the lock nuts so that the hinge has the amount of pressure to hold the screen and the mod is done!
+Once the glue dries, tighten the lock nuts so that the hinge has the amount of pressure to hold the screen at any angle and the mod is done!
 
 ## Parts List:
 
