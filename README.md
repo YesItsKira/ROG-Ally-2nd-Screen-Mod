@@ -97,3 +97,6 @@ M3 Washers:
 https://www.amazon.co.uk/dp/B0B49NZBH7?ref=ppx_yo2ov_dt_b_product_details&th=1
 
 
+I dont charge for any of my projects and make them free for the communities they are in. If you like my stuff, id appreciate a tip!
+
+https://ko-fi.com/yesitskira
